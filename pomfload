@@ -1,5 +1,5 @@
 #!/bin/sh
-uppomf="https://pantsu.cat/upload.php"
+uppomf="https://pomf.lain.la/upload.php"
 
 if test $# -lt 1 ; then
     echo "Usage: $(basename "$0") FILE [FILE...]"
